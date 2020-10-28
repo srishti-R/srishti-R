@@ -9,7 +9,7 @@ I take pride in being a purely self-taught mobile application developer and an a
 
 #### Reach me at:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srishti_Rohatgi-informational?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/srishti-rohatgi-04847516b/)
-  ![](https://img.shields.io/badge/Portfolio-Srishti_Rohatgi-informational?link=https://srishti-r.github.io/portfolio/&style=for-the-badge&logo=Firefox&logoColor=white&color=2bbc8a)
+ [![Firefox](https://img.shields.io/badge/Portfolio-Srishti_Rohatgi-informational?&style=for-the-badge&logo=Firefox&logoColor=white&color=2bbc8a)](https://srishti-r.github.io/portfolio/)
  
  #### Github Stats:
   ![Srishti's github stats](https://github-readme-stats.vercel.app/api?username=srishti-R&show_icons=true&theme=merko)
