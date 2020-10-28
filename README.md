@@ -12,5 +12,5 @@ I take pride in being a purely self-taught mobile application developer and an a
   ![](https://img.shields.io/badge/Portfolio-Srishti_Rohatgi-informational?link=https://srishti-r.github.io/portfolio/&style=for-the-badge&logo=Firefox&logoColor=white&color=2bbc8a)
  
  #### Github Stats:
-  ![Srishti's github stats](https://github-readme-stats.vercel.app/api?username=srishti-R&show_icons=true&theme=radical)
+  ![Srishti's github stats](https://github-readme-stats.vercel.app/api?username=srishti-R&show_icons=true&theme=merko)
 
