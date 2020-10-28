@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Srishti :earth_asia: .
 
+![counter](https://enghz3t5r2x6xdf.m.pipedream.net)
+
 I take pride in being a purely self-taught mobile application developer and an avid learner.
 
 - 🚧 Currently working on improving advanced Kotlin, Rest API development with databases other than H2 and SQL.
